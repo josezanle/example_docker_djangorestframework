@@ -1,0 +1,17 @@
+# Archivos de caché de Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Base de datos de desarrollo
+db.sqlite3
+
+# Configuración sensible
+*.env
+local_settings.py
+
+# Archivos generados por logs
+*.log
+
+# Entorno virtual (si usas uno)
+venv/
